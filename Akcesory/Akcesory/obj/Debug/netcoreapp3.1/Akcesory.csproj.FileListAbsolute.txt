@@ -1,0 +1,13 @@
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.exe
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.deps.json
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.runtimeconfig.json
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.runtimeconfig.dev.json
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.dll
+C:\Users\kwere\source\repos\Akcesory\Akcesory\bin\Debug\netcoreapp3.1\Akcesory.pdb
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.csprojAssemblyReference.cache
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.AssemblyInfoInputs.cache
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.AssemblyInfo.cs
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.csproj.CoreCompileInputs.cache
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.dll
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.pdb
+C:\Users\kwere\source\repos\Akcesory\Akcesory\obj\Debug\netcoreapp3.1\Akcesory.genruntimeconfig.cache
