@@ -8,7 +8,7 @@ namespace Akcesory
         static void Main(string[] args)
         {
             Hours godz = new Hours();
-            godz.Hour = 16; //dostęp do zmiennej prywatnej poprzez właściwość
+            godz.Hour = 36; //dostęp do zmiennej prywatnej poprzez właściwość
             //przypisanie możliwe dzięki sekcji set we własności Hour
             Console.WriteLine(godz.Info());
 
